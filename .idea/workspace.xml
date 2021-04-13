@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5466a5fe-ceb6-49f0-bd1a-dea1a137cb1a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +21,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="polaris" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DibujoPolares" />
+      <module name="abanderado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,14 +45,24 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="787" y="168" width="962" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617820651394">
+    <state x="787" y="168" width="962" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618335961516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="787" y="168" width="962" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617820651394" />
-    <state x="537" y="465" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617820649677">
+    <state x="787" y="168" width="962" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618335961516" />
+    <state x="537" y="465" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1618335958957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="537" y="465" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617820649677" />
+    <state x="537" y="465" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618335958957" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1618335939372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618335939372" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dobleejecucion$cartesianas.ic" NAME="cartesianas Coverage Results" MODIFIED="1618334161506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
